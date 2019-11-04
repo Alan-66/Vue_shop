@@ -8,13 +8,16 @@ body,
 #app {
   height: 100%;
 }
-.el-breadcrumb{
+.el-card {
+  box-shadow: 0, 0, 3px, #ccc;
+}
+.el-breadcrumb {
   margin-bottom: 15px;
   font-size: 12px;
 }
-.el-table{
+.el-table {
   margin-top: 15px;
 }
-.el-pagination{
+.el-pagination {
   margin-top: 15px;
 }
